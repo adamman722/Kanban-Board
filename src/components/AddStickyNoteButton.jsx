@@ -35,7 +35,6 @@ const CustomButtonRoot = styled("button")`
   transition: all 150ms ease;
   cursor: pointer;
   border: none;
-  display: inset-block;
 
   &:hover {
     background-color: ${blue[600]};
